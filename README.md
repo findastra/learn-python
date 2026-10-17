@@ -1,6 +1,14 @@
 # LearnPython
 
 
+## Pictures
+
+![Python Panther's practice desk: read a tiny Python example, predict its output, then check your answer](docs/images/learn-python-program-page-20261017.png)
+
+Python Panther's [program page](https://findastra.github.io/astras-pet-os/apps/learn-python-20261008.html) as published in Astra's PetOS.
+
+Screenshots taken 2026-10-17 with GitHub Goldfish's [project-image-generator](https://github.com/findastra/github-goldfish#project-image-generator); added with Claude Opus 5.5 (`claude-opus-5-5`), 2026-10-17.
+
 ## Python Panther pet interface
 
 *A pet app by Astra.*
