@@ -24,4 +24,4 @@ The new standalone entry has not been separately verified as a hosted website. A
 
 Keep this source tag unchanged. For a defect in the pet interface, use the original application entry described in README.md or check out the prior source in a separate checkout. Publish a corrective commit and new tag; do not reset shared main or force-push a rollback. Back up browser records before clearing site data.
 
-Desktop art follow-up (2026-10-11): Brighter purple panther. Source frames and runtime handoff are recorded in desktop-pet-20261011.json. Prepared by OpenAI Codex (GPT-6), 2026-10-11.
+Desktop art follow-up (2026-10-11): Brighter purple panther. Source frames and runtime handoff are recorded in https://raw.githubusercontent.com/findastra/astras-pet-os/main/desktop-art/python-panther/desktop-pet-20261011.json. Prepared by OpenAI Codex (GPT-6), 2026-10-11.
