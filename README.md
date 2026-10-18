@@ -19,12 +19,4 @@ Limits: this browser interface does not install or start native programs. Where 
 
 Version [v0.1.0-20261008-pets](https://github.com/findastra/learn-python/tree/v0.1.0-20261008-pets). Added with OpenAI Codex (GPT-6), 2026-10-08.
 
-Desktop appearance draft updated 2026-10-11: see [desktop details](desktop-pet-20261011.json). This changes the desktop pet, not application features.
-
-## Limits
-
-What is not done, plainly. From the hub's [intelligence levels](https://github.com/findastra/astras-pet-os/blob/main/INTELLIGENCE-LEVELS.md) (checked 2026-10-17):
-
-- **Program (L1/L2):** 🟡 **Made by Astra:** *Python Jungle*: today the [Python practice desk](https://github.com/findastra/learn-python/blob/main/learn-python-20261008.html)
-- **Runtime (L2):** — A practice desk you open; nothing needs to run on its own yet
-- **Agentic harness (L3):** — not built yet
+Desktop appearance draft updated 2026-10-11: see [desktop details](https://raw.githubusercontent.com/findastra/astras-pet-os/main/desktop-art/python-panther/desktop-pet-20261011.json). This changes the desktop pet, not application features.
