@@ -11,7 +11,7 @@ Screenshots taken 2026-10-17 with GitHub Goldfish's [project-image-generator](ht
 
 ## Python Panther pet interface
 
-*An Intelligent App, or Pet, by Astra.*
+*By Astra.*
 
 Open [learn-python-20261008.html](learn-python-20261008.html) in a modern browser, or double-click Python Panther in Astra's PetOS. The nine original pet moods and manifest are included.
 
