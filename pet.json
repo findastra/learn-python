@@ -7,6 +7,7 @@
   "job": "A Python practice desk with short output exercises, answer checks and saved progress alongside the original lessons.",
   "runs_on": "Modern browser for the pet interface; original application requirements remain in README.md.",
   "entry": "learn-python-20261008.html",
+  "homepage": "https://findastra.github.io/astras-pet-os/apps/pet-programs/learn-python-20261018.html",
   "status": "hatching",
   "cage": {
     "topic": "pet-app",
@@ -14,7 +15,7 @@
   },
   "version": "0.1.0-20261008-pets",
   "source": "https://github.com/findastra/learn-python/tree/v0.1.0-20261008-pets",
-  "built_with": "OpenAI Codex (GPT-6), 2026-10-08; OpenAI Codex (GPT-6), 2026-10-11",
+  "built_with": "OpenAI Codex (GPT-6), 2026-10-08; OpenAI Codex (GPT-6), 2026-10-11; homepage (its pet program page) added with Claude Opus 5.5 (claude-opus-5-5), 2026-10-19",
   "desktop_pet": "https://raw.githubusercontent.com/findastra/astras-pet-os/main/desktop-art/python-panther/desktop-pet-20261011.json",
   "desktop_art_built_with": "OpenAI Codex (GPT-6), built-in imagegen and native renderer, 2026-10-11",
   "audit": {
