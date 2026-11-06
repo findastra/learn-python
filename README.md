@@ -27,7 +27,7 @@ Astra's PetOS. The nine original pet moods and manifest are included.
 
 ## Quirks
 
-1. This browser interface does not install or start native programs. Where an existing web app is available, the Cage
+1. This browser interface does not install or start native programs. Where an existing web app is available, the hub
    opens that app. Draft controls store their data in the current browser and do not imply connected services.
 2. What is not done, plainly. From the hub's [intelligence levels](https://github.com/findastra/astras-pet-os/blob/main/INTELLIGENCE-LEVELS.md) (checked 2026-10-18):
 
